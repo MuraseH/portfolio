@@ -2,12 +2,9 @@ title: "My Portfolio"
 description: "ポートフォリオサイト"
 remote_theme: pmarsceill/just-the-docs
 
-url: "https://your-username.github.io"
-baseurl: ""
+repository: MuraseH/portfolio
 
-# ナビゲーションの順番を固定
-nav_order: 1
+url: "https://muraseh.github.io"
+baseurl: "/portfolio"
 
-# GitHub Pages用
 
-search_enabled: false
