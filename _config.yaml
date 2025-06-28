@@ -1,5 +1,5 @@
 title: "My Portfolio"
-description: "docs"
+# description: "docs"
 remote_theme: pmarsceill/just-the-docs
 
 repository: MuraseH/portfolio
