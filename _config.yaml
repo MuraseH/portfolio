@@ -9,3 +9,5 @@ baseurl: ""
 nav_order: 1
 
 # GitHub Pages用
+
+search_enabled: false
